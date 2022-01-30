@@ -1,0 +1,22 @@
+.Heading{
+    margin: 0;
+    background-color: orangered;
+    color: chartreuse;
+    font-size: large
+}
+.note{
+    color:black;
+    font-size: medium;
+}
+.copy_right_footer{
+ color:blue;
+ background-color: white;
+}
+canvas{
+    border:5px chartreuse double;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+body{
+    background-size:cover ;
+}
